@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489188272481",
+    "project_id": "chatgpt-81243",
+    "storage_bucket": "chatgpt-81243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489188272481:android:db15f1ec2a7c761b9b7d20",
+        "android_client_info": {
+          "package_name": "com.example.hi_flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvMkzK9LLyqB5rAysB8beSNv9HPeEoHDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
